@@ -1,3 +1,7 @@
+# Liver CT Dataset
+
+Download Liver CT Processed dataset through this link: https://qmulprod-my.sharepoint.com/:u:/g/personal/hfy432_qmul_ac_uk/IQAID5WHQqQ0RIiP82xjQgVcAeL4K5O6W8GBif4vQbJmcEg?e=KJ39oD
+
 # Liver CT Segmentation with U-Net
 
 This repository contains a student-friendly Jupyter notebook for liver and tumor segmentation from contrast-enhanced CT slices using a 2D U-Net in PyTorch.
